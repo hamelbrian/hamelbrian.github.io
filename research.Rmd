@@ -1,0 +1,20 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+#### Journal Articles
+
+Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. “Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.” *Political Behavior*.
+
+**Hamel, Brian T.**, and Michael G. Miller. Forthcoming. “How Voters Punish and Donors Protect Legislators Embroiled in Scandal.” *Political Research Quarterly*. 
+
+Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. Forthcoming. "Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?" *Journal of Politics*. Supplementary Appendix. 
+
+Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel.** 2017. "Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?" *Political Behavior* 39 (4): 865-885.
+
+#### Under Review
+
+"Who Donates to Party Switchers?" (with Antoine Yoshinaka). Revised & Resubmitted at *American Politics Research*.
+
+#### Projects in Progress

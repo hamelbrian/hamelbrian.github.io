@@ -1,0 +1,15 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<div id="columns">
+  <div id="left">
+  <img src="images/hamel_photo.jpg" style="width:100%; border:10px solid;">
+  </div>
+  <div id="right">
+  <p>Welcome! Thank you for visiting my website.</p>
+  <p>I am a Ph.D. student in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. My dissertation research develops a theory of work identity, and examines the consequences of structural change in the American economy on the preferences and behaviors of those most affected. Other projects examine mass and elite political behavior more generally, and have been published or are forthcoming in the *Journal of Politics*, *Political Behavior*, and *Political Research Quarterly*.</p>
+  I received a B.A. in Political Science from American University in 2016. I can be reached at bhamel@ucla.edu.
+  </div>
+  </div>

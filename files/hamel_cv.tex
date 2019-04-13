@@ -1,0 +1,265 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2009 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template/
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[11pt]{article}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Comment the following lines to use the default Computer Modern font
+% instead of the Palatino font provided by the mathpazo package.
+% Remove the 'osf' bit if you don't like the old style figures.
+\usepackage[T1]{fontenc}
+% \usepackage[sc,osf]{mathpazo}
+% \usepackage{times}
+
+% Set your name here
+\def\name{\textbf{Brian T. Hamel}}
+
+% Replace this with a link to your CV if you like, or set it empty
+% (as in \def\footerlink{}) to remove the link in the footer:
+\def\footerlink{}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{pdftitle = {hamel\_cv}}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.5\linewidth}
+  Department of Political Science \\
+  University of California, Los Angeles \\
+  4289 Bunche Hall \\
+  Los Angeles, CA 90095-1472 
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+  \begin{tabular}{ll}
+    Office: & 4337 Bunche Hall \\
+    Phone: & (424) 526-6295 \\
+    Email: & \texttt{bhamel@ucla.edu} \\
+    Website: & \texttt{https://brianhamel.net/} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Education}
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+
+	\item[] Ph.D., Political Science, University of California, Los Angeles, 2022 (expected)
+	
+	\begin{enumerate}[topsep = 0pt, itemsep = -1ex, partopsep = -1ex, parsep = 1ex]
+		
+		\item[] Committee: Lynn Vavreck (chair), Martin Gilens, Jeffrey B. Lewis, and John Zaller
+	
+	\end{enumerate}
+		
+	\item[] M.A., Political Science, University of California, Los Angeles, 2019 (expected)
+	
+	\begin{enumerate}[topsep = 0pt, itemsep = -1ex, partopsep  = -1ex, parsep = 1ex]
+	
+		\item[] Fields: American Politics, Comparative Politics, and Quantitative Methodology
+	
+	\end{enumerate}
+		
+	\item[] B.A., Political Science (with Honors), American University, 2016
+
+\end{enumerate}
+
+\section*{Publications}
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+	
+	\item[] Atkeson, Lonna Rae, and \textbf{Brian T. Hamel}. Forthcoming. ``Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.'' \textit{Political Behavior}.
+
+	\item[] \textbf{Hamel, Brian T.}, and Michael G. Miller. 2019. ``How Voters Punish and Donors Protect Legislators Embroiled in Scandal.'' \textit{Political Research Quarterly} 72 (1): 117-131.
+
+	\item[] Henderson, John A., \textbf{Brian T. Hamel}, and Aaron M. Goldzimer. 2018. ``Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?'' \textit{Journal of Politics} 80 (3): 1011-1016.
+
+	\item[] Panagopoulos, Costas, Jan E. Leighley, and \textbf{Brian T. Hamel}. 2017. ``Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment.'' \textit{Political Behavior} 39 (4): 865-882.
+
+\end{enumerate}
+
+\section*{Under Review}
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+	
+	\item[] ``Who Donates to Party Switchers?'' (with Antoine Yoshinaka). Revised \& Resubmitted at \textit{American Politics Research}. 
+	
+	\item[] ``Corruption, Party Leaders, and Candidate Selection: Evidence from Italy'' (with Raffaele Asquer and Miriam A. Golden)
+
+\end{enumerate}
+	
+\section*{Projects in Progress}
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+
+	% \item[] ``Quality of Work Life and Political Participation''
+	
+	% \item[] ``An Occupation-Based Theory of Self-Interest and Political Preferences''
+	
+	%\item[] ``Occupational Status and Political Preferences''
+
+	\item[] ``Electoral Competition, Early Voting, and Election Day Turnout'' (with Jan E. Leighley, Robert M. Stein, and Lynn Vavreck)
+	
+	\item[] ``Partisans, Nonpartisans, and Presidential Campaign Advertisements'' (with Lynn Vavreck)
+
+	\item[] ``Right-to-Work Laws and the Political Activism of Labor Unions'' (with Soumyajit Mazumder) 
+
+	\item[] ``Nonpolicy Responsiveness in U.S. Cities'' (with Derek E. Holliday)
+
+	\item[] ``Dynamic Racial Contexts and Political Behavior'' (with Bryan Wilcox-Archuleta)
+	
+	\item[] ``Campaign Finance Limits in the U.S. States'' (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
+
+	\item[] ``The Political Legacy of Head Start'' (with John B. Holbein, Soumyajit Mazumder, and Alan N. Yan)
+
+	\item[] ``The Health and Culture of American Political Parties'' (with Anand E. Sokhey)
+	
+	\item[] ``Poverty, Inequality, and Political Preferences'' (with Eunji Kim)
+
+\end{enumerate}
+
+\section*{Conference Presentations}
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+	
+	\item[] American Political Science Association: 2016, 2017, 2018, and 2019
+	
+	\item[] Election Sciences, Reform, and Administration: 2018 
+	
+	\item[] Midwest Political Science Association: 2015, 2017, 2018, and 2019
+	
+	\item[] Society for Political Methodology: 2016 (poster)
+	
+	\item[] Southern Political Science Association: 2016
+	
+	\item[] Toronto Political Behaviour Workshop: 2017
+	
+\end{enumerate}
+
+\section*{Awards, Fellowships, and Grants} 
+
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+	
+	\item[] Hoffenberg Fellow, University of California, Los Angeles, 2018-
+	
+	\item[] Fellowship in Political Psychology, University of California, Los Angeles, \$500, 2018
+	
+	\item[] New Initiatives Grant in Election Sciences, MIT Election Data and Science Lab, \$10,000, 2017-2019 (with Jan E. Leighley and Robert M. Stein)
+	
+	\item[] National Science Foundation Graduate Research Fellowship, 2016-2019
+	
+	\item[] Outstanding Scholarship at the Undergraduate Level, American University, 2016
+	
+	\item[] Prestage-Cook Travel Award, Southern Political Science Association, \$300, 2016
+	
+	\item[] Advanced Empirical Research on Politics for Undergraduates Program Society for Political Methodology, 2015-2016
+	
+\end{enumerate}
+
+\section*{Research Experience}
+ 
+\begin{enumerate}[topsep = 0pt, itemsep = 1ex, partopsep  = 1ex, parsep = 1ex]
+
+	% \item[] Research Associate, U.S. Democracy Tracker, 2019-
+	
+	\item[] Research Assistant, Miriam A. Golden, University of California, Los Angeles, 2018-
+	
+	\item[] Research Analyst, Early Voting Information Center, Reed College, 2016
+	
+	\item[] Research Assistant, John A. Henderson, Yale University, 2015
+	
+	\item[] Intern, Congressional Research Service, 2015
+	
+	\item[] Research Assistant, Eleanor Neff Powell, University of Wisconsin-Madison, 2014
+	
+\end{enumerate}
+
+\section*{Academic Service} 
+
+\begin{enumerate}[topsep = 0pt, itemsep = -1ex, partopsep  = 1ex, parsep = 1ex]
+	
+	\item[] \textit{Service to the Department}
+	
+	\begin{enumerate}[topsep = 0pt, itemsep = -1ex, partopsep = -1ex, parsep = 1ex]
+		
+		\item[] Faculty Search Committee, 2018-2019 
+		\item[] Graduate Admissions Committee, 2017-2018 \\
+		
+	\end{enumerate}
+
+	\item[] \textit{Service to the Discipline}
+
+	\begin{enumerate}[topsep = 0pt, itemsep = -1ex, partopsep  = -1ex, parsep = 1ex]
+	
+	\item[] Chair: APSA (2017, 2018, and 2019) and MPSA (2017)
+	
+	\item[] Discussant: APSA (2017 and 2019) and MPSA (2019)
+	
+	\item[] Referee: \textit{American Politics Research}, \textit{Election Law Journal (x2)}, \textit{Electoral Studies}, \textit{Journal of Elections, Public Opinion and Parties}, \textit{Journal of Politics}, \textit{Political Behavior}, \textit{Political Communication}, and \textit{Public Choice} \\
+	
+	\end{enumerate}
+
+\end{enumerate}
+
+\bigskip
+
+% Footer
+\begin{center}
+  \begin{footnotesize}
+    Last Updated: \today \\
+    \href{\footerlink}{\texttt{\footerlink}}
+  \end{footnotesize}
+\end{center}
+
+\end{document}
