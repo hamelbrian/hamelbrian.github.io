@@ -10,6 +10,8 @@ navbar:
   right:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/hamelpolisci
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=Jj8mGOIAAAAJ&hl=en
     - icon: fa-github fa-lg
       href: http://github.com/hamelbrian
 
