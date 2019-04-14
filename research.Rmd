@@ -5,23 +5,25 @@
 <link rel="stylesheet" href="site_libs/academicons-1.8.6/css/academicons.css" type="text/css">
 
 <p style="margin-top:30px;">
+*Note: Replication data and code for published research can be found here. Please contact me at bhamel@ucla.edu with questions.*
+</p>
+
 ##### Journal Articles
+
+<p style="margin-left:50px; margin-right:50px;">
+Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. “Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.” *Political Behavior*. [Link](files/teachers.pdf).
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. “Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.” *Political Behavior*.
+**Hamel, Brian T.**, and Michael G. Miller. 2019. “How Voters Punish and Donors Protect Legislators Embroiled in Scandal.” *Political Research Quarterly* 72 (1): 117-131. [Link](files/scandal.pdf).
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-**Hamel, Brian T.**, and Michael G. Miller. 2019. “How Voters Punish and Donors Protect Legislators Embroiled in Scandal.” *Political Research Quarterly* 72 (1): 117-131.
+Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. "Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?" *Journal of Politics* 80 (3): 1011-1016. [Link](files/gerrymandering.pdf).
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. "Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?" *Journal of Politics* 80 (3): 1011-1016.
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. "Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?" *Political Behavior* 39 (4): 865-885
+Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. "Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?" *Political Behavior* 39 (4): 865-885. [Link](files/friends.pdf).
 </p>
 
 ##### Under Review
