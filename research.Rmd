@@ -4,62 +4,54 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.8.6/css/academicons.css" type="text/css">
 
-<p style="margin-top:30px;">
-*Note: Replication data and code for published research can be found here. Please contact me at bhamel@ucla.edu with questions.*
-</p>
-
 ##### Journal Articles
 
 <p style="margin-left:50px; margin-right:50px;">
-Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. “Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.” *Political Behavior*. [Link](files/teachers.pdf).
+**Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. [“Who Donates to Party Switchers?”](https://journals.sagepub.com/doi/full/10.1177/1532673X19858336) *American Politics Research*.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-**Hamel, Brian T.**, and Michael G. Miller. 2019. “How Voters Punish and Donors Protect Legislators Embroiled in Scandal.” *Political Research Quarterly* 72 (1): 117-131. [Link](files/scandal.pdf).
+Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. [“Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections.”](https://link.springer.com/article/10.1007/s11109-018-9486-0) *Political Behavior*.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. "Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?" *Journal of Politics* 80 (3): 1011-1016. [Link](files/gerrymandering.pdf).
+**Hamel, Brian T.**, and Michael G. Miller. 2019. [“How Voters Punish and Donors Protect Legislators Embroiled in Scandal.”](https://journals.sagepub.com/doi/full/10.1177/1065912918781044) *Political Research Quarterly* 72 (1): 117-131.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. "Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?" *Political Behavior* 39 (4): 865-885. [Link](files/friends.pdf).
+Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. ["Gerrymandering Incumbency: Does Nonpartisan Redistricting Increase Electoral Competition?"](https://www.journals.uchicago.edu/doi/abs/10.1086/697120) *Journal of Politics* 80 (3): 1011-1016.
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?"](https://link.springer.com/article/10.1007/s11109-016-9383-3) *Political Behavior* 39 (4): 865-885.
 </p>
 
 ##### Under Review
 
 <p style="margin-left:50px; margin-right:50px;">
-"Who Donates to Party Switchers?" (with Antoine Yoshinaka). Revised & Resubmitted at *American Politics Research*.
+["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy"](files/working/italy_main.pdf) (with Raffaele Asquer and Miriam A. Golden). Revise & Resubmit at *Legislative Studies Quarterly*. [Appendix](files/woking/italy_appendix.pdf).
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Corruption, Party Leaders, and Candidate Selection: Evidence from Italy" (with Raffaele Asquer and Miriam A. Golden)
+["Who Gets a Streetlight? Race, Class, and Responsiveness in U.S. Cities"](files/working/311_main.pdf) (with Derek E. Holliday). [Appendix](files/working/311_appendix.pdf).
 </p>
 
-##### Projects in Progress
+##### Selected Projects in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Electoral Competition, Early Voting, and Election Day Turnout" (with Jan E. Leighley, Robert M. Stein, and Lynn Vavreck)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Partisans, Nonpartisans, and Presidential Campaign Advertisements" (with Lynn Vavreck)
+"Mass Communication and Early Voting Turnout" (with Jan E. Leighley, Robert M. Stein, and Lynn Vavreck)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Right-to-Work Laws and the Political Activism of Labor Unions" (with Soumyajit Mazumder)
+"Partisans, Nonpartisans, and Political Advertising" (with Lynn Vavreck)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Nonpolicy Responsiveness in U.S. Cities" (with Derek E. Holliday)
+"Measuring Racial Context" (with Bryan Wilcox-Archuleta)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Dynamic Racial Contexts and Political Behavior" (with Bryan Wilcox-Archuleta)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Campaign Finance Limits in the U.S. States" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
+"Poverty, Inequality, and Political Preferences" (with Eunji Kim)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -67,10 +59,11 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. "Are Voters
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"The Health and Culture of American Political Parties" (with Anand E. Sokhey)
+"The Causal Effects of Unions" (with Soumyajit Mazumder)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Poverty, Inequality, and Political Preferences" (with Eunji Kim)
+"Campaign Finance Limits in the U.S. States" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
 </p>
+
 

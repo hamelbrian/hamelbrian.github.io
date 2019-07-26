@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
 }
 
 #left, #right {
@@ -11,5 +10,13 @@
 
 #left {
   display: flex;
-  justify-content: space-around;
+}
+
+figure {
+    display: inline-block;
+}
+figure img {
+    vertical-align: top;
+    max-height: 425px;
+    max-width: 425px;
 }
