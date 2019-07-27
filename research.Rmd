@@ -18,7 +18,7 @@
 ##### Journal Articles
 
 <p style="margin-left:50px; margin-right:50px;">
-**Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. [“Who Donates to Party Switchers?”](https://journals.sagepub.com/doi/full/10.1177/1532673X19858336) *American Politics Research*.
+**Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. [“Who Donates to Party Switchers?”](https://journals.sagepub.com/doi/full/10.1177/1532673X19858336){:target="_blank" rel="noopener"} *American Politics Research*.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
