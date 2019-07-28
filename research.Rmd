@@ -1,17 +1,6 @@
 ---
 ---
 
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-84746815-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-84746815-2');
-</script>
-</head>
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.8.6/css/academicons.css" type="text/css">
 
@@ -34,13 +23,13 @@ Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. ["Gerryman
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment?"](https://link.springer.com/article/10.1007/s11109-016-9383-3) *Political Behavior* 39 (4): 865-885.
+Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a `Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment"](https://link.springer.com/article/10.1007/s11109-016-9383-3) *Political Behavior* 39 (4): 865-885.
 </p>
 
 ##### Under Review
 
 <p style="margin-left:50px; margin-right:50px;">
-["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy"](files/working/italy_main.pdf) (with Raffaele Asquer and Miriam A. Golden). Revise & Resubmit at *Legislative Studies Quarterly*. [Appendix](files/woking/italy_appendix.pdf).
+["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy"](files/working/italy_main.pdf) (with Raffaele Asquer and Miriam A. Golden). Revised & Resubmitted at *Legislative Studies Quarterly*. [Appendix](files/woking/italy_appendix.pdf).
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
