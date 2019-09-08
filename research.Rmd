@@ -7,6 +7,10 @@
 ##### Journal Articles
 
 <p style="margin-left:50px; margin-right:50px;">
+Asquer, Raffaele, Miriam A. Golden, and **Brian T. Hamel**. Forthcoming. "Corruption, Party Leaders, and Candidate Selection: Evidence from Italy." *Legislative Studies Quarterly*.
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
 **Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. ["Who Donates to Party Switchers?"](https://journals.sagepub.com/doi/full/10.1177/1532673X19858336) *American Politics Research*.
 </p>
 
@@ -26,17 +30,11 @@ Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. ["Gerryman
 Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a 'Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment."](https://link.springer.com/article/10.1007/s11109-016-9383-3) *Political Behavior* 39 (4): 865-885.
 </p>
 
-##### Under Review
-
-<p style="margin-left:50px; margin-right:50px;">
-["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy"](files/working/italy_main.pdf) (with Raffaele Asquer and Miriam A. Golden). Revised & Resubmitted at *Legislative Studies Quarterly*. [Appendix](files/woking/italy_appendix.pdf).
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Who Gets a Streetlight? Race, Class, and Responsiveness in U.S. Cities" (with Derek E. Holliday). 
-</p>
-
 ##### Selected Projects in Progress
+
+<p style="margin-left:50px; margin-right:50px;">
+"Race, Class, and Responsiveness in U.S. Cities" (with Derek E. Holliday). 
+</p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Mass Communication and Early Voting Turnout" (with Jan E. Leighley, Robert M. Stein, and Lynn Vavreck)
