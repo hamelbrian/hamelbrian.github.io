@@ -8,6 +8,8 @@ navbar:
     - text: "CV"
       href: cv.html
   right:
+    - icon: fa-envelope fa-lg
+      href: mailto:bhamel@ucla.edu
     - icon: fa-twitter fa-lg
       href: https://twitter.com/hamelpolisci
     - icon: ai-google-scholar ai-lg
