@@ -7,7 +7,7 @@
 ##### Journal Articles
 
 <p style="margin-left:50px; margin-right:50px;">
-Asquer, Raffaele, Miriam A. Golden, and **Brian T. Hamel**. Forthcoming. ["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy."](files/working/italy_main.pdf) *Legislative Studies Quarterly*. [Appendix.](files/working/italy_appendix.pdf)
+Asquer, Raffaele, Miriam A. Golden, and **Brian T. Hamel**. Forthcoming. "Corruption, Party Leaders, and Candidate Selection: Evidence from Italy." *Legislative Studies Quarterly*.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -39,7 +39,7 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 ##### Works in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Inequality in Service Delivery" (with Derek E. Holliday). 
+"Inequalities in City in Service Delivery" (with Derek E. Holliday). 
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -55,11 +55,15 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"The Causal Effects of Unions" (with Soumyajit Mazumder)
+"Campaign Finance and Polarization" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Polarization and Party Contributions" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
+"Patronage and Reelection" (with Miriam A. Golden, Eugenia Nazrullaeva, and Stephane Wolton)
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+"Scandal and Macropartisanship" (with Donald P. Green and Michael G. Miller)
 </p>
 
 
