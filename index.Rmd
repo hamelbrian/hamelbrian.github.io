@@ -10,7 +10,7 @@
   <div id="right">
   <p>Welcome! Thank you for visiting my website.</p>
   <p>I am a Ph.D. Student in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. My primary research agenda focuses on class, status, and the consequences of the polarization of work for political attitudes in the United States. </p>
-  <p> Other projects examine the behavior of campaign contributors, candidate cues and heuristics in low-information elections, and the effects of mass communication and political advertising, among others. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others..</p>
+  <p> Other projects examine the behavior of campaign contributors, candidate cues and heuristics in low-information elections, and the effects of mass communication and political advertising, among others. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
   <p> I received a B.A. (with Honors) in Political Science from American University in 2016.</p>
   </div>
   </div>
