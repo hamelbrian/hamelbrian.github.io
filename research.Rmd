@@ -55,15 +55,15 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Campaign Finance and Polarization" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Patronage and Reelection" (with Miriam A. Golden, Eugenia Nazrullaeva, and Stephane Wolton)
+"Parties and Polarization" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Scandal and Macropartisanship" (with Donald P. Green and Michael G. Miller)
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+"Economic Precarity and Turnout" (with John B. Holbein)
 </p>
 
 
