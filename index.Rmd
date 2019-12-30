@@ -4,13 +4,19 @@
 <div id="columns">
   <div id="left">
   <figure>
-  <img src="images/hamel_photo.jpg" style="border:10px solid;" alt = "missing" />
+  <img src="images/home.jpg" style="border:10px solid;" alt = "missing" />
   </figure>
   </div>
   <div id="right">
-  <p>Welcome! Thank you for visiting my website.</p>
-  <p>I am a Ph.D. Student in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. My primary research agenda focuses on class, status, and the consequences of the polarization of work for political attitudes in the United States. </p>
-  <p> Other projects examine the behavior of campaign contributors, candidate cues and heuristics in low-information elections, and the effects of mass communication and political advertising, among others. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
-  <p> I received a B.A. (with Honors) in Political Science from American University in 2016.</p>
+  <p>I am a Ph.D. Student in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. 
+My research has been published or is forthcoming in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
+  <p>Broadly, I study U.S. political economy and public policy. My dissertation focuses on representation and accountability in local government. Empirically, I study the Community Development Block Grant (CDBG), a federal program that awards annual grants to over 1,100 cities and counties. My project assesses how governments choose to allocate CDBG funds and the political and societal consequences of those decisions. Related work addresses inequalities in access to municipal goods and services, the effects of changes in state and local tax policies on election outcomes, and the long-term political consequences of social programs and policies.</p>
+  <p>Other projects explore several predictors of political opinion and behavior in the U.S. and abroad, including:</p>
+<ul>
+  <li>candidate characteristics, such as occupation and place of residence</li>
+  <li>corruption and scandal</li>
+  <li>electoral context and mass communications</li>
+  <li>income inequality and poverty</li>
+</ul>
   </div>
   </div>
