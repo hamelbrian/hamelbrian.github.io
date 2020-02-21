@@ -5,7 +5,7 @@
 }
 
 #left, #right {
-  padding: 40px;
+  padding: 50px;
 }
 
 #left {
@@ -17,6 +17,6 @@ figure {
 }
 figure img {
     vertical-align: top;
-    max-height: 425px;
-    max-width: 425px;
+    max-height: 390px;
+    max-width: 390px;
 }
