@@ -11,6 +11,6 @@
   <p>I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. 
 My research has been published or is forthcoming in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
   <p>I study American political behavior and institutions. My dissertation focuses on distributive politics, exploring how demographics and the political incentives of elected officials shape “who gets what” from government, and how “who gets what” affects long-term political outcomes and behaviors.</p>
-  <p>Other projects focus on the effects of corruption and scandal in the U.S. and abroad, how candidates and campaigns persuade and mobilize voters, and on new approaches to measuring and assessing how personal circumstances (e.g., financial and medical) affect political decision-making.</p>
+  <p>Other projects consider the effects of corruption and scandal, how candidates and campaigns persuade and mobilize voters, and on developing new approaches to measuring and assessing how personal circumstances and self-interest affect political decision-making.</p>
   </div>
   </div>

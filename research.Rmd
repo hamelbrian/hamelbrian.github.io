@@ -43,7 +43,7 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 ##### Works in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Taxes and Election Outcomes"
+"Taxes and Elections"
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -63,7 +63,11 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Economic Well-Being and Turnout" (with John B. Holbein)
+"Debt and Turnout" (with John B. Holbein)
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+"Opioids and Turnout" (with Ryan Baxter-King and John B. Holbein)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
