@@ -33,14 +33,18 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 ##### Under Review
 
 <p style="margin-left:50px; margin-right:50px;">
-["Measuring Racial Context"](files/racial_context.pdf) (with Bryan Wilcox-Archuleta)
+"Measuring Racial Context" (with Bryan Wilcox-Archuleta)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-["Who Gets a Streetlight? Unequal Responsiveness in City Services"](files/311.df) (with Derek E. Holliday)
+"Who Gets a Streetlight? Unequal Responsiveness in City Services" (with Derek E. Holliday)
 </p>
 
 ##### Works in Progress
+
+<p style="margin-left:50px; margin-right:50px;">
+"Taxes and Elections"
+</p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
@@ -70,7 +74,4 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 "Midterm Turnout" (with Jan E. Leighley and Jonathan Nagler)
 </p>
 
-<p style="margin-left:50px; margin-right:50px;">
-"Taxes and Elections" (Gustavo Novoa)
-</p>
 
