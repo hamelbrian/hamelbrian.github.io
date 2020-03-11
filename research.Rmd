@@ -10,12 +10,13 @@
 Asquer, Raffaele, Miriam A. Golden, and **Brian T. Hamel**. Forthcoming. ["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy."](files/italy.pdf) *Legislative Studies Quarterly*.
 </p>
 
+
 <p style="margin-left:50px; margin-right:50px;">
-**Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. ["Who Donates to Party Switchers?"](files/switchers.pdf) *American Politics Research*.
+Atkeson, Lonna Rae, and **Brian T. Hamel**. 2020. ["Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections."](files/teachers.pdf) *Political Behavior* 42 (1): 59-82.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-Atkeson, Lonna Rae, and **Brian T. Hamel**. Forthcoming. ["Fit for the Job: Candidate Qualifications and Vote Choice in Low Information Elections."](files/teachers.pdf) *Political Behavior*.
+**Brian T. Hamel**, and Antoine Yoshinaka. Forthcoming. 2020. ["Who Donates to Party Switchers?"](files/switchers.pdf) *American Politics Research* 48 (2): 295-307.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -33,21 +34,21 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 ##### Under Review
 
 <p style="margin-left:50px; margin-right:50px;">
-["Measuring Racial Context"](files/racial_context.pdf) (with Bryan Wilcox-Archuleta). Revise & Resubmit, *Journal of Politics*.
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-["Who Gets a Streetlight? Unequal Responsiveness in City Services"](files/311.pdf) (with Derek E. Holliday)
+"Measuring Racial Context" (with Bryan Wilcox-Archuleta). Revise & Resubmit, *Journal of Politics*.
 </p>
 
 ##### Works in Progress
+
+<p style="margin-left:50px; margin-right:50px;">
+"Inequalities in City Service Delivery" (with Derek E. Holliday)
+</p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Poverty, Inequality, and Political Preferences" (with Eunji Kim and Sara M. Kirshbaum)
+"Inequality and Preferences" (with Eunji Kim and Sara M. Kirshbaum)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -68,9 +69,5 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 
 <p style="margin-left:50px; margin-right:50px;">
 "Midterm Turnout" (with Jan E. Leighley and Jonathan Nagler)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Taxes and Elections" (Gustavo Novoa)
 </p>
 
