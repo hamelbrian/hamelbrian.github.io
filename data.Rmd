@@ -4,4 +4,4 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 <link rel="stylesheet" href="site_libs/academicons-1.8.6/css/academicons.css" type="text/css">
 
-<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=hamelbrian&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=hamelbrian&amp;widget=iframe&amp;heightPx=500"></script>
+<script src="https://dataverse.harvard.edu/resources/js/widgets.js?alias=hamelbrian&amp;dvUrl=https://dataverse.harvard.edu&amp;widgetScope=hamelbrian&amp;widget=iframe&amp;heightPx=850"></script>
