@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Research"
       href: research.html
+    - text: "Data & Code"
+      href: data.html
     - text: "CV"
       href: cv.html
   right:
