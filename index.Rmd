@@ -1,6 +1,5 @@
 ---
-name: Brian T. Hamel | Home
-title: null
+title: Brian T. Hamel | Home
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
