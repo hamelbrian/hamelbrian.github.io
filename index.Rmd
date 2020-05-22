@@ -9,7 +9,7 @@
   </div>
   <div id="right">
   <p>I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
-  <p>I study American political behavior and institutions. Broadly, my dissertation and primary research agenda focuses on distributive politics. My work examines how demographic, electoral, and legislative factors shape who receives government benefits, and how benefits affect political behavior and election outcomes. Current projects use data on federal block grant spending (e.g., the CDBG), New Deal-era relief spending, 311 city services, hurricance disaster relief aid, and state education spending.</p>
-  <p>My other research explores the effects of candidates, campaigns, racial/economic context, and electoral institutions (e.g., redistricting bodies and campaign finance reform).</p>
+  <p>I study American political behavior and institutions. My dissertation and primary research agenda focuses on distributive politics. My work examines how demographic, electoral, and legislative factors shape who receives government benefits, and how benefits affect mass political behavior and election outcomes. Current projects use data on federal block grant allocations, New Deal-era relief spending, 311 city services, and hurricane disaster relief aid.</p>
+  <p>My other research explores the effects of candidates, campaigns, context, and electoral institutions (e.g., redistricting bodies and campaign finance reforms) on a variety of political outcomes.</p>
   </div>
   </div>
