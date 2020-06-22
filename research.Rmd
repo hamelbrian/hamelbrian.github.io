@@ -39,7 +39,7 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 ##### Works in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Political Effects of New Deal Spending"
+"Political Effects and Legacy of New Deal Spending"
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -55,11 +55,11 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Congressional Staff and the Distribution of Federal Spending" (with Joshua McCrain)
+"Congressional Staff and the Pork Barrel" (with Joshua McCrain)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Context and Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
+"Party Control and Education Spending" (with Melissa L. Sands)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -67,10 +67,9 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Scandal and Macropartisanship" (with Donald P. Green and Michael G. Miller)
+"Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Parties, Campaign Finance, and Polarization" (with Aaron M. Goldzimer, John A. Henderson, and Shawn Patterson, Jr.)
+"Opioids Epidemic and Elections" (with Ryan Baxter-King and John B. Holbein)
 </p>
-
