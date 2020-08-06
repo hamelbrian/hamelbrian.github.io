@@ -8,7 +8,8 @@
   </figure>
   </div>
   <div id="right">
-  <p>I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. I am supported by a National Science Foundation Graduate Research Fellowship. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
-  <p>I study American political behavior and institutions. My dissertation and primary research agenda focuses on the political economy of government spending. My work examines how demographic, electoral, and legislative factors shape who "who gets what," and the effects of "who gets what" on elections and political behavior. Current projects use data on federal block grant allocations, New Deal-era spending, 311 city services, and hurricane disaster relief aid.</p>
+  <p>I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. My research has been published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among others.</p>
+  <p>I study American political behavior and institutions. My dissertation explores the fundmamental political question of "who gets what" from government, why, and how it matters. In a series of empirical papers, I link data on federal block grant allocations, New Deal-era economic relief spending, 311 city services, and hurricane disaster relief aid with election returns, voter registration files, and demographic data. Combined, I offer new evidence on the reciprocal relationship between policy and politics. Other research focuses on voter turnout, as well as candidate, campaign, and contextual effects on mass political behavior.</p>
+  <p>I am on the academic job market in 2020-2021.</p>
   </div>
   </div>

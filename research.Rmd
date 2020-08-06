@@ -7,6 +7,10 @@
 ##### Journal Articles
 
 <p style="margin-left:50px; margin-right:50px;">
+**Hamel, Brian T.**, and Bryan Wilcox-Archuleta. Conditionally Accepted. ["Black Workers in White Places: Daytime Racial Diversity and White Public Opinion."](files/context.pdf) *Journal of Politics*.
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
 Asquer, Raffaele, Miriam A. Golden, and **Brian T. Hamel**. Forthcoming. ["Corruption, Party Leaders, and Candidate Selection: Evidence from Italy."](files/italy.pdf) *Legislative Studies Quarterly* 45 (2): 291-395.
 </p>
 
@@ -15,7 +19,7 @@ Atkeson, Lonna Rae, and **Brian T. Hamel**. 2020. ["Fit for the Job: Candidate Q
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-**Brian T. Hamel**, and Antoine Yoshinaka. 2020. ["Who Donates to Party Switchers?"](files/switchers.pdf) *American Politics Research* 48 (2): 295-307.
+**Hamel, Brian T.**, and Antoine Yoshinaka. 2020. ["Who Donates to Party Switchers?"](files/switchers.pdf) *American Politics Research* 48 (2): 295-307.
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -30,20 +34,14 @@ Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. ["Gerryman
 Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a 'Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment."](files/friends.pdf) *Political Behavior* 39 (4): 865-885.
 </p>
 
-##### Under Review
-
-<p style="margin-left:50px; margin-right:50px;">
-["Black Workers in White Places: Daytime Racial Diversity and White Public Opinion"](files/context.pdf) (with Bryan Wilcox-Archuleta). Revised & Resubmitted, *Journal of Politics*.
-</p>
-
 ##### Works in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Political Effects and Legacy of New Deal Spending"
+"Policy Instruments, Retrospective Voting, and the New Deal"
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Electoral Incentives and Block Grant Spending"
+"Electoral Targeting in City Block Grant Spending"
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -59,17 +57,9 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Party Control and Education Spending" (with Melissa L. Sands)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
 "Demographics of Midterm Turnout" (with Jan E. Leighley and Jonathan Nagler)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Opioids Epidemic and Elections" (with Ryan Baxter-King and John B. Holbein)
 </p>
