@@ -34,18 +34,20 @@ Henderson, John A., **Brian T. Hamel**, and Aaron M. Goldzimer. 2018. ["Gerryman
 Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voters Mobilized by a 'Friend-and-Neighbor' on the Ballot? Evidence from a Field Experiment."](files/friends.pdf) *Political Behavior* 39 (4): 865-885.
 </p>
 
+##### Working Papers
+
+<p style="margin-left:50px; margin-right:50px;">
+["The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections"](files/new_deal.pdf) (job market paper)
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+["A Streetlight Left Desired? Inequalities in City Goods and Service Delivery"](files/311.pdf) (with Derek E. Holliday)
+</p>
+
 ##### Works in Progress
 
 <p style="margin-left:50px; margin-right:50px;">
-"Policy Instruments, Retrospective Voting, and the New Deal"
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Electoral Targeting in City Block Grant Spending"
-</p>
-
-<p style="margin-left:50px; margin-right:50px;">
-"Inequalities in City Service Delivery" (with Derek E. Holliday)
+"Politics, Needs, and City Black Grant Spending"
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
@@ -57,9 +59,13 @@ Panagopoulos, Costas, Jan E. Leighley, and **Brian T. Hamel**. 2017. ["Are Voter
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
-"Demographics of Midterm Turnout" (with Jan E. Leighley and Jonathan Nagler)
+"Mass and Elite Responsiveness to the Opioid Epidemic" (with Ryan Baxter-King, Justin de Benedictis-Kessner, Michael Hankinson, and John B. Holbein)
 </p>
 
 <p style="margin-left:50px; margin-right:50px;">
 "Early Voting Turnout" (with Jan E. Leighley and Robert M. Stein)
+</p>
+
+<p style="margin-left:50px; margin-right:50px;">
+"Demographics of Midterm Turnout" (with Jan E. Leighley and Jonathan Nagler)
 </p>
