@@ -1,6 +1,5 @@
 name: "Brian T. Hamel"
 output_dir: "."
-google_analytics: "UA-84746815-2"
 navbar:
   title: "Brian T. Hamel"
   left:
@@ -20,5 +19,7 @@ navbar:
 
 output:
   html_document:
+    includes:
+       in_header: analytics.html
     theme: paper
     css: 'styles.css'
