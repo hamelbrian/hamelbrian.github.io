@@ -4,12 +4,13 @@
 <div id="columns">
   <div id="left">
   <figure>
-  <img src="images/home.jpg" style="border:10px solid;" alt = "missing" />
+  <img src="images/me.jpg" style="border:10px solid;" alt = "missing" />
   </figure>
   </div>
   <div id="right">
   <p>I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. My work has been supported by a National Science Foundation Graduate Research Fellowship and published in the *Journal of Politics*, *Political Behavior*, and *Legislative Studies Quarterly*, among other outlets.</p>
   <p>My dissertation, *The Power --- and Limits --- of the Purse*, includes four empirical papers exploring the fundamental political question of "who gets what" from government, why, and how it matters. Do politicians deliver government resources to political supporters, swing voters, or other demographic and economic groups at the expense of others? Do government benefits increase voter participation, and do voters reward and punish incumbent politicians at the ballot box for delivering or failing to deliver benefits?</p>
   <p>To address these questions, I draw on a variety of historical and contemporary data, including data on New Deal-era economic relief spending, FEMA disaster relief aid recipients, 311-initiated requests for city goods and services, and city block grant spending. All told, I analyze the distribution of over \$14 billion dollars in benefits and aid to more than 10 million Americans. My research spans the study of American political institutions and behavior, offering new insights into how government resources are allocated, and whether and how these decisions affect voters and election outcomes.</p>
+  <p> Other research explores the effects of candidates, campaigns, and contexts on mass political behavior.</p>
   </div>
   </div>
